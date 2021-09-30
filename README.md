@@ -1,7 +1,6 @@
-### Hi there 👋
+![header](https://github.com/CrisDgrnu/CrisDgrnu/blob/main/header.png)
 
 Thanks for stopping by, this is **Cristian**.
-
 
 
 ```javascript
@@ -20,4 +19,8 @@ const cristian = {
     }
 };
 ```
-
+___
+### 🔎 You can find me on
+- [👔 LinkedIn](https://www.linkedin.com/in/cristian-de-gracia-nuero-4821aa17b/)
+- [📷 Instagram](https://www.instagram.com/cfres_/)
+- [📧 Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=crisdgrnu@gmail.com)
