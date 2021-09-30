@@ -2,6 +2,12 @@
 
 Thanks for stopping by, this is **Cristian**.
 
+#### 🔎 You can find me on
+- [👔 LinkedIn](https://www.linkedin.com/in/cristian-de-gracia-nuero-4821aa17b/)
+- [📷 Instagram](https://www.instagram.com/cfres_/)
+- [📧 Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=crisdgrnu@gmail.com)
+
+#### 🤓 This is what I know
 
 ```javascript
 const cristian = {
@@ -19,8 +25,4 @@ const cristian = {
     }
 };
 ```
-___
-### 🔎 You can find me on
-- [👔 LinkedIn](https://www.linkedin.com/in/cristian-de-gracia-nuero-4821aa17b/)
-- [📷 Instagram](https://www.instagram.com/cfres_/)
-- [📧 Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=crisdgrnu@gmail.com)
+
