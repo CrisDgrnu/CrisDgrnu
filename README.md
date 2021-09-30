@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**CrisDgrnu/CrisDgrnu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Thanks for stopping by, this is **Cristian**.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+```javascript
+const cristian = {
+    pronouns: "He" | "Him",
+    askMeAbout: ["Web Dev", "Blockchain", "Linux", "Functional Programming", "Tech"],
+    technologies: {
+        frontEnd: {
+            js: ["Angular", "React"],
+            css: ["Bootstrap", "Flexbox", "Responsive Design", "Grid"]
+        },
+        backEnd: ["Spring Boot"],
+        databases: ["MySql", "MariaDB", "MongoDB"],
+        otherTechnologies: ["Java", "Python", "C", "Haskell", "Scala", "Bash"],
+        tools: ["Dbdeployer", "Docker", "Junit", "NPM", "Jest", "SuperTest"]
+    }
+};
+```
+
