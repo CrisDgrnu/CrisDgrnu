@@ -12,16 +12,40 @@ Thanks for stopping by, this is **Cristian**.
 ```javascript
 const cristian = {
     pronouns: "He" | "Him",
-    askMeAbout: ["Web Dev", "Blockchain", "Linux", "Functional Programming", "Tech"],
+    askMeAbout: [
+                    "Backend",
+                    "Microservices",
+                    "APIs",
+                    "Functional Programing",
+                    "Web development"
+                ],
     technologies: {
         frontEnd: {
             js: ["Angular", "React"],
             css: ["Bootstrap", "Flexbox", "Responsive Design", "Grid"]
         },
-        backEnd: ["Spring Boot"],
-        databases: ["MySql", "MariaDB", "MongoDB"],
-        otherTechnologies: ["Java", "Python", "C", "Haskell", "Scala", "Bash"],
-        tools: ["Dbdeployer", "Docker", "Junit", "NPM", "Jest", "SuperTest"]
+        backEnd: [
+                    "NodeJs", 
+                    "ExpressJs", 
+                    "NestJs", 
+                    "Spring", 
+                    "Spring Boot", 
+                    "Jakarta EE"
+                 ],
+        databases: [
+                    "MySQL", 
+                    "MariaDB", 
+                    "MongoDB", 
+                    "PostreSQL"
+                   ],
+        otherTechnologies: [
+                    "Python", 
+                    "C", 
+                    "Elixir", 
+                    "Haskell", 
+                    "Bash"
+                    ],
+        tools: ["Docker", "Junit", "NPM", "Jest", "SuperTest"]
     }
 };
 ```
