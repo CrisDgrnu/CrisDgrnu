@@ -18,8 +18,9 @@ const cristian = {
                     "APIs",
                     "Functional Programing",
                     "Web development"
-                ],
+                    ],
     technologies: {
+        os: ["ArchLinux", "Debian", "Windows"],
         frontEnd: {
             js: ["Angular", "React"],
             css: ["Bootstrap", "Flexbox", "Responsive Design", "Grid"]
@@ -31,12 +32,14 @@ const cristian = {
                     "Spring", 
                     "Spring Boot", 
                     "Jakarta EE"
-                 ],
+                    ],
         databases: [
                     "MySQL", 
                     "MariaDB", 
                     "MongoDB", 
-                    "PostreSQL"
+                    "PostreSQL",
+                    "Oracle",
+                    "Elasticsearch"
                    ],
         otherTechnologies: [
                     "Python", 
@@ -45,8 +48,15 @@ const cristian = {
                     "Haskell", 
                     "Bash"
                     ],
-        tools: ["Docker", "Junit", "NPM", "Jest", "SuperTest"]
-    }
+        tools: [
+                    "Docker", 
+                    "Junit", 
+                    "NPM", 
+                    "Jest", 
+                    "SuperTest",
+                    "Postman"
+                    ]
+    },
 };
 ```
 
